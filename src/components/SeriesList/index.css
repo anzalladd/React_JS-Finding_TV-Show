@@ -1,0 +1,9 @@
+div ul{
+  text-align: center;
+  list-style-type: none;
+  padding-left: 0 !important;
+}
+div ul li{
+  text-align: center;
+  padding: 10px 0;
+}
